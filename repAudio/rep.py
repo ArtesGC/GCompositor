@@ -1,6 +1,5 @@
 import pyaudio
 import wave
-import sys
 
 
 def reprodutor():
