@@ -1,2 +1,3 @@
 PyAudio
 pyqt5
+mutagen
